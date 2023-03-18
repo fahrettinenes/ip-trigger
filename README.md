@@ -19,3 +19,6 @@ This library works with Regular Expression (RegEx), You can find expression from
 ```
 ([0-9]{1,3}[\.]){3}[0-9]{1,3}
 ```
+
+## What's the main point for this kind of simple project.
+The main point was learning the RegEx in C++.
