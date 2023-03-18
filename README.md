@@ -1,7 +1,7 @@
 ## IP Trigger
-Hello, You can use this library for get ip adresses from in the string!
+Hello, You can use this library to get ip adresses from in the string!
 
-## How Can I Use?
+## How Can I Use It?
 ```cpp
 #include "ipparser.h"
 
